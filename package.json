@@ -170,7 +170,7 @@
     "webpack-cli": "^3.3.0"
   },
   "dependencies": {
-    "@octokit/rest": "^16.16.4",
+    "@octokit/rest": "^16.23.5",
     "chokidar": "^2.1.5",
     "fs-extra": "^7.0.1",
     "https-proxy-agent": "^2.2.1",
